@@ -11,3 +11,5 @@ Designer & programmer of small worlds & experiences
 ## Also find me on:
 
 [itch.io](conceptualhenry.itch.io)    [bluesky](https://bsky.app/profile/conceptualhenry.bsky.social)
+
+(construction zone! please check for updates)
