@@ -1,0 +1,22 @@
+
+.newColor {
+    color: green;
+}
+
+body {
+    font-family: Tahoma, sans-serif;
+    color: antiquewhite;
+}
+
+.testBackground {
+    background-color: red;
+}
+
+a {
+    color:aqua;
+}
+
+
+.purpleHeader {
+    background-color: mediumpurple;
+}

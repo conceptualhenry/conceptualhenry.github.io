@@ -1,0 +1,65 @@
+body {
+    font-family: Garamond, sans-serif;
+    color: antiquewhite;
+    background-color: darkslategrey;
+    
+}
+
+a {
+    color:aqua;
+}
+
+h1 {
+    font-size: 45pt;
+    margin-top: 5pt;
+    margin-bottom: 0pt;
+}
+
+h2 {
+    font-size: 25pt;
+    margin-bottom: 3pt;
+}
+
+h3 {
+    font-size: 20pt;
+    margin-bottom: 3pt;
+}
+
+
+.lightHeader {
+    background-color: mediumpurple;
+    text-align: center;
+}
+
+.darkHeader {
+    background-color: rebeccapurple;
+    text-align: center;
+}
+
+.withMargins {
+    margin-left: 80pt;
+    margin-right: 80pt;
+}
+
+table.leftAlign td {
+    text-align: left;
+}
+
+table.centerAlign td {
+    text-align: center;
+}
+
+.lowAlign {
+    vertical-align: bottom;
+}
+
+.heroImage{
+    width: 275pt;
+    height: 275pt;
+}
+
+.logo {
+    width: 40pt;
+    height: 40pt;
+}
+
